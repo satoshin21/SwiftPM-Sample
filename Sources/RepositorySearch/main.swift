@@ -24,5 +24,4 @@ private func main(args: [String]) {
     exit(0)
 }
 
-print("\(CommandLine.arguments[0])")
 main(args: CommandLine.arguments)
